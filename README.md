@@ -2,6 +2,7 @@
 # Gigu&Me ☁
 
 **An AI-powered emotional wellness and productivity companion for students.**
+> 🖱️ **[Try Gigu&Me live →](https://app-bnfu2kehx4w1.appmedo.com/)**
 
 ---
 
