@@ -1,5 +1,5 @@
 # MeDo-hackathon-app
-# Gigu&Me 🌥️
+# Gigu&Me ☁
 
 **An AI-powered emotional wellness and productivity companion for students.**
 
@@ -27,7 +27,7 @@ Gigu&Me is an all-in-one lifestyle tracker that helps students manage their emot
 
 ---
 
-## Meet Gigu 🌥️
+## Meet Gigu ☁
 
 Gigu is the app's cloud companion with 8 emotional expressions that dynamically reflect the user's most recent mood:
 
@@ -108,33 +108,6 @@ supabase/
 - Supabase account
 - Groq API key (free tier at [console.groq.com](https://console.groq.com))
 
-### Installation
-
-```bash
-git clone https://github.com/your-username/giguandme
-cd giguandme
-npm install
-```
-
-### Environment Variables
-
-```bash
-VITE_SUPABASE_URL=your_supabase_url
-VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
-```
-
-### Supabase Edge Function Secret
-
-```bash
-supabase secrets set GROQ_API_KEY=your_groq_api_key
-```
-
-### Run locally
-
-```bash
-npm run dev
-```
-
 ---
 
 ## What's Next
@@ -159,5 +132,5 @@ MIT
 
 ---
 
-*Made with 💜 by Liss — UDLAP Systems Engineering Student*  
+*Made by Lissel Flores — UDLAP Systems Engineering Student*  
 *Build with MeDo Hackathon 2026*
